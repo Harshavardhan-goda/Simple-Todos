@@ -1,0 +1,16 @@
+.list-item-card {
+  text-align: left;
+  list-style-type: none;
+  padding: 10px;
+  margin-left: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+.delete-btn {
+  color: #ff0b37;
+  padding: 10px;
+  background-color: transparent;
+  border-color: #ff0b37;
+  border-width: 1px;
+  border-radius: 7px;
+}
